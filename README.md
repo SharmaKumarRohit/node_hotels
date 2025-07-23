@@ -62,7 +62,7 @@ The Person data model represents information about staff members in the hotel.
 
     Example:
 
-    ```{
+    {
       "name": "John Doe",
       "age": 30,
       "work": "waiter",
@@ -70,7 +70,7 @@ The Person data model represents information about staff members in the hotel.
       "email": "john@example.com",
       "address": "123 Main Street",
       "salary": 30000
-    }```
+    }
 
 Menu Item
 
