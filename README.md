@@ -1,5 +1,4 @@
 <h1>Node Hotel Application</h1>
-<hr />
 
 <p>The Node Hotel application is a Node.js-based system developed using the Express.js framework, with MongoDB as the chosen database. This application manages information related to persons (staff) and menu items. It exposes specific endpoints to handle CRUD (Create, Read, Update, Delete) operations for both persons and menu items.</p>
 Endpoints
@@ -63,7 +62,7 @@ The Person data model represents information about staff members in the hotel.
 
     Example:
 
-    {
+    ```{
       "name": "John Doe",
       "age": 30,
       "work": "waiter",
@@ -71,7 +70,7 @@ The Person data model represents information about staff members in the hotel.
       "email": "john@example.com",
       "address": "123 Main Street",
       "salary": 30000
-    }
+    }```
 
 Menu Item
 
